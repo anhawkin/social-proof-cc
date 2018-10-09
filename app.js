@@ -11,7 +11,7 @@ var cookieParser = require('cookie-parser');
 var app = express();
 
 var client_id = 'e6b3183b49-realtime'; // Your client id
-var client_secret = '20e3b27faf9771f15d91'; // Your secret
+var client_secret = 'xxxxxxxxxxxxxx'; // Your secret
 var analyticsData = '';
 var port = process.env.PORT || 3000;
 // your application requests authorization
